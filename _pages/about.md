@@ -15,8 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-hi! my name is rob and i am a regents scholar at the university of california san diego studying computer science. i am currently on an accelerated track to graduate in just shy of three years by march 2023 and plan to enter the industry as a software engineer post-graduation!
+hi! my name is rob and i am a regents scholar at the university of california san diego studying computer science. i am on track to graduate in just shy of three years by march 2023 and plan to enter the industry as a software engineer post-graduation!
 
-currently, i work as a software engineering intern at [werfen](https://www.werfen.com/na/en) in san diego, california. i am interested in gaining more experience in systems programming and hope to become an embedded software engineer working with operating systems, networks, microcontrollers and processors, memory systems, low-level debugging and testing, and much more!
-
-if you would like to learn more about me, feel free to connect via any of my socials!
+currently, i am a software engineering intern at [werfen](https://www.werfen.com/na/en) in san diego, california. i am interested in gaining more experience in systems programming and particularly seek an embedded software engineer role involving operating systems, networks, microcontrollers and processors, memory systems, low-level debugging and testing, and much more!
