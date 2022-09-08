@@ -1,8 +1,8 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
-subtitle: <a href="assets/pdf/RobertJiangResume.pdf" download>resume</a>. <a href="https://www.linkedin.com/in/rcjng/">linkedin</a>. <a href="https://github.com/rcjng">github</a>. <a href="mailto:rcjiang@ucsd.edu">email</a>. <a href="tel:5038109393">phone</a>.
+subtitle: <a href="assets/pdf/RobertJiangResume.pdf" download>Resume</a>. <a href="https://www.linkedin.com/in/rcjng/">LinkedIn</a>. <a href="https://github.com/rcjng">GitHub</a>. <a href="mailto:rcjiang@ucsd.edu">Email</a>. <a href="tel:5038109393">Phone</a>.
 
 profile:
   align: right
@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-hi! my name is rob and i am a regents scholar at the university of california, san diego studying computer science. i am on track to graduate in just shy of three years by march 2023 and plan to enter the industry as a software engineer post-graduation!
+Hi! My name is Rob and I am a Regents Scholar at the University of California, San Diego studying Computer Science. I am on track to graduate in just shy of three years by March 2023 and plan to enter the industry as a Software Engineer post-graduation!
 
-currently, i am a software engineering intern at [werfen](https://www.werfen.com/na/en) in san diego, california working on the software design of an upcoming whole blood hemostasis testing medical device. beyond this, i am interested in gaining more experience in mobile app development and systems programming. in particular, i am seeking either a mobile software engineer role or an embedded software engineer role involving operating systems, networks, microcontrollers and processors, memory systems, low-level debugging and testing, and much more!
+Currently, I am a Software Engineering Intern at [Werfen](https://www.werfen.com/na/en) in San Diego, California working on the software design of an upcoming whole blood hemostasis testing medical device. Beyond this role, I am interested in gaining more experience in mobile app development and systems programming. In particular, I am seeking a mobile software engineer role, a full-stack software developer role, or an embedded software engineer role involving operating systems, networks, microcontrollers and processors, memory systems, low-level debugging and testing, and much more!
