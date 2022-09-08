@@ -1,85 +1,85 @@
-- title: general information
+- title: General Information
   type: map
   contents:
-    - name: name
-      value: robert jiang
-    - name: preferred name
-      value: rob
-    - name: age
+    - name: Name
+      value: Robert Jiang
+    - name: Preferred Name
+      value: Rob
+    - name: Age
       value: "20"
-    - name: languages
-      value: english, mandarin
-    - name: location
-      value: san diego, ca
+    - name: Languages
+      value: English, Mandarin
+    - name: Location
+      value: San Diego, CA
 
-- title: education
+- title: Education
   type: time_table
   contents:
-    - title: bachelor of science, computer science
-      institution: university of california, san diego
+    - title: Bachelor of Science, Computer Science
+      institution: University of California, San Diego
       year: 09.2020 - 03.2023
       description:
         - "3.85/4.00"
         
-- title: relevant coursework
+- title: Relevant Coursework
   type: list
   contents:
-    - algorithms, data structures, software engineering, operating systems, computer architecture, computer organization, compilers, programming languages, digital system design, software tools, computer vision, computability theory, linear algebra, discrete math, statistics
+    - Algorithms, Data Structures, Software Engineering, Operating Systems, Computer Architecture, Computer Organization, Compilers, Programming Languages, Digital System Design, Software Tools, Computer Vision, Computability Theory, Linear Algebra, Discrete Math, Statistics
     
-- title: experience
+- title: Experience
   type: time_table
   contents:
-    - title: software engineering intern
-      institution: werfen
-      year: 06.2022 - present
-      description: implementing, testing, reviewing, and contributing to the software design of an upcoming whole blood hemostasis testing medical device under the agile development process using object-oriented programming, design patterns, and multidisciplinary engineering.
+    - title: Software Engineering Intern
+      institution: Werfen
+      year: 06.2022 - Present
+      description: Implementing, testing, reviewing, and contributing to the software design of an upcoming whole blood hemostasis testing medical device under the agile development process using object-oriented programming, design patterns, and multidisciplinary engineering.
 
-    - title: electrical engineering intern
-      institution: tubis technology
+    - title: Electrical Engineering Intern
+      institution: Tubis Technology
       year: 06.2019 - 08.2019
-      description: designed an evaluation pcb in altium designer via schematic entry and implemented an arduino program and python script to visually represent bytes from an input stream on a breadboard wired with 8 leds.
+      description: Designed an evaluation PCB in Altium Designer via schematic entry and implemented an Arduino program and Python script to visually represent bytes from an input stream on a breadboard wired with 8 LEDs.
 
-    - title: engineering intern
-      institution: black & veatch
+    - title: Engineering Intern
+      institution: Black & Veatch
       year: 06.2018 - 08.2018
-      description: calculated mechanical loads and created cad drawings for transformers and other substation components using microstation and autocad.
+      description: Calculated mechanical loads and created CAD drawings for transformers and other substation components using Microstation and AutoCAD.
       
-- title: projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/rcjng/dynamic-display-settings-switcher">dynamic display settings switcher (ddss)</a>
+    - title: <a href="https://github.com/rcjng/dynamic-display-settings-switcher">Dynamic Display Settings Switcher (DDSS)</a>
       year: 2022
-      description: an executable program for windows laptops that automatically increases or decreases display settings (resolution, refresh rate, and brightness) when connected or disconnected from power.
-    - title: <a href="https://github.com/rcjng/Feather">feather</a>
+      description: An executable program for Windows laptops that automatically increases or decreases display settings (resolution, refresh rate, and brightness) when connected or disconnected from power.
+    - title: <a href="https://github.com/rcjng/Feather">Feather</a>
       year: 2022
-      description: an android social networking app that recommends students to each other based upon previously taken course criteria as part of the wi22 cse110 group course project.
-    - title: <a href="https://github.com/rcjng/JARchitecture">jarchitecture</a>
+      description: An Android social networking app that recommends students to each other based upon previously taken course criteria as part of the WI22 CSE110 group course project.
+    - title: <a href="https://github.com/rcjng/JARchitecture">JARchitecture</a>
       year: 2022
-      description: an accumulator and load-store hybrid computer architecture made in systemverilog with a python assembler and a mips-esque isa as part of the sp22 cse141l group course project.
+      description: An accumulator and load-store hybrid computer architecture made in SystemVerilog with a Python assembler and a MIPS-esque instruction set architecture as part of the SP22 CSE141L group course project.
 
-- title: honors & awards
+- title: Honors & Awards
   type: time_table
   contents:
-    - year: 2020 - present
+    - year: 2020 - Present
       items:
-        - "provost's honors @ ucsd"
+        - "Provost's Honors @ UCSD"
     - year: 2020
       items: 
-        - regents scholar @ ucsd
+        - Regents Scholar @ UCSD
     - year: 2019
       items: 
-        - national merit finalist
+        - National Merit Finalist
 
-- title: technical skills
+- title: Technical Skills
   type: map
   contents:
-    - name: languages
-      value: c/c++, python, java, haskell, vhdl, verilog/systemverilog, arm/mips/x86
-    - name: frameworks
-      value: junit, robolectric, espresso
-    - name: developer tools
-      value: android studio, stm32cube, arduino, modelsim, quartus prime, git
-    - name: libraries & apis
-      value: numpy, google nearby messages, room
-    - name: techniques
-      value: agile development, design patterns, object-oriented design
+    - name: Languages
+      value: C/C++, Python, Java, Haskell, VHDL, Verilog/SystemVerilog, ARM/MIPS/X86
+    - name: Frameworks
+      value: JUnit, Robolectric, Espresso
+    - name: Developer Tools
+      value: Android Studio, STM32Cube, Arduino, ModelSim, Quartus Prime, Git
+    - name: Libraries & APIs
+      value: NumPy, Google Nearby Messages, Room
+    - name: Techniques
+      value: Agile Development, Design Patterns, Object-Oriented Programming
