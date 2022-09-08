@@ -3,15 +3,16 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: robert
+first_name: Robert
 middle_name: 
-last_name: jiang
+last_name: Jiang
 email: rcjiang@ucsd.edu
 description: > 
-  robert jiang's personal portfolio website.
+  Robert Jiang's personal portfolio website.
 footer_text: >
-  powered by <a href="https://jekyllrb.com/" target="_blank">jekyll</a> and inspired by the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  hosted by <a href="https://pages.github.com/" target="_blank">github pages</a>.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
+  Inspired by the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website, robert-jiang, rob-jiang, robert-jiang-ucsd, robert-jiang-cs  
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -83,7 +84,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: the best way to reach me is through email!
+contact_note: The best way to reach me is through Email!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
