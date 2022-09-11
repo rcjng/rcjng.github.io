@@ -5,12 +5,8 @@
       value: Robert Jiang
     - name: Preferred Name
       value: Rob
-    - name: Age
-      value: "20"
     - name: Languages
       value: English, Mandarin
-    - name: Location
-      value: San Diego, CA
 
 - title: Education
   type: time_table
