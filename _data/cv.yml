@@ -34,9 +34,9 @@
       year: 06.2022 - Present
       description: 
       - Implemented and tested multiple new features or modifications for a medical device including designing an electronic system verification test suite and extending the telemetry and serial interfaces.
-      - Merged over a dozen commits and contributed/modified more than 6000+ lines of code via the use of object-oriented programming and design patterns.
+      - Merged over a dozen commits and made 6,000+ code contributions via the use of object-oriented programming and design patterns.
       - Created and executed test cases for 8+ bug fixes and/or changes.
-      - Reviewed over a dozen changes and updated multiple specification documents accordingly to reflect code, design, and workflow changes, case studies, and development logs for a medical device.
+      - Reviewed over a dozen changes and updated multiple specification documents accordingly to reflect code, design, and workflow changes, case studies, and development logs.
 
     - title: Electrical Engineering Intern
       institution: Tubis Technology
@@ -63,14 +63,15 @@
     - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
       year: 2022
       description: 
-      - Developed an Android social networking app that recommends students to each other based upon specific course criteria (# of shared courses, recency of shared courses, etc.).
-      - Implemented and iteratively tested multiple features including Bluetooth message sending and receiving via Google Nearby Messages API, data storage and persistence via Room API, sorting/filtering/matching algorithms, and UI view handling.
-      - Merged 70+ commits and contributed/modified 25,000+ lines of code.
+      - Developed an Android social networking app in Java that recommends students to each other based upon specific course criteria (# of shared courses, recency of shared courses, etc.).
+      - Implemented and iteratively tested multiple features including Bluetooth message sending and receiving via Google Nearby Messages API, data storage and persistence via Room API, sorting/filtering/matching algorithms, and UI view handling via design patterns and object-oriented programming.
+      - Merged 70+ commits and made 25,000+ code contributions.
     - title: <a href="https://github.com/rcjng/JARchitecture">JARchitecture</a>
       year: 2022
       description: 
-      - Developed an accumulator and load-store hybrid computer architecture in SystemVerilog with a Python assembler and a MIPS-esque ISA and implemented and tested 3 programs in JARchitecture instructions to demonstrate architecture usage and functionality.
-      - Merged 15+ commits and contributed/modified just shy of 10,000 lines of code.
+      - Developed an accumulator and load-store hybrid computer architecture in SystemVerilog with a Python assembler and a MIPS-esque ISA.
+      - Implemented 3 programs/algorithms in JARchitecture instructions then verified program correctness using Java to demonstrate architecture usage and functionality.
+      - Merged 15+ commits and made just shy of 10,000 code contributions..
 
 - title: Honors & Awards
   type: time_table
