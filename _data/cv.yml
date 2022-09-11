@@ -32,7 +32,8 @@
     - title: Software Engineering Intern
       institution: Werfen
       year: 06.2022 - Present
-      description: Implemented and tested multiple new features or modifications for a medical device including designing an electronic system verification test suite and extending the telemetry and serial interfaces.
+      description: 
+      - Implemented and tested multiple new features or modifications for a medical device including designing an electronic system verification test suite and extending the telemetry and serial interfaces.
       - Merged over a dozen commits and contributed/modified more than 6000+ lines of code via the use of object-oriented programming and design patterns.
       - Created and executed test cases for 8+ bug fixes and/or changes.
       - Reviewed over a dozen changes and updated multiple specification documents accordingly to reflect code, design, and workflow changes, case studies, and development logs for a medical device.
@@ -40,30 +41,35 @@
     - title: Electrical Engineering Intern
       institution: Tubis Technology
       year: 06.2019 - 08.2019
-      description: Designed an evaluation PCB in Altium by schematic entry: designed the PCB layer stackup, selected and placed components, inserted vias, routed traces, and added labels and identifiers.
+      description: 
+      - Designed an evaluation PCB in Altium by schematic entry: designed the PCB layer stackup, selected and placed components, inserted vias, routed traces, and added labels and identifiers.
       - Implemented an Arduino program and Python script to visually represent bytes from an input stream on an LED circuit.
 
     - title: Engineering Intern
       institution: Black & Veatch
       year: 06.2018 - 08.2018
-      description: Calculated mechanical loads and created CAD drawings for transformers and other substation components using Microstation and AutoCAD.
+      description: 
+      - Calculated mechanical loads and created CAD drawings for transformers and other substation components using Microstation and AutoCAD.
       
 - title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/rcjng/dynamic-display-settings-switcher">Dynamic Display Settings Switcher (DDSS)</a>
       year: 2022
-      description: Created a system tray application for Windows laptops that switches display settings (screen resolution, refresh rate, and brightness) when connecting or disconnecting from power.
+      description: 
+      - Created a system tray application for Windows laptops that switches display settings (screen resolution, refresh rate, and brightness) when connecting or disconnecting from power.
       - Implemented an easy one-click resolution and refresh rate switch feature and a configuration file for storing and changing custom user-defined display setting profiles.
       - Wrote 500+ lines of code and utilized a variety of Python libraries including pywin32, psutil, wmi, threading, and pystray.
     - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
       year: 2022
-      description: Developed an Android social networking app that recommends students to each other based upon specific course criteria (# of shared courses, recency of shared courses, etc.).
+      description: 
+      - Developed an Android social networking app that recommends students to each other based upon specific course criteria (# of shared courses, recency of shared courses, etc.).
       - Implemented and iteratively tested multiple features including Bluetooth message sending and receiving via Google Nearby Messages API, data storage and persistence via Room API, sorting/filtering/matching algorithms, and UI view handling.
       - Merged 70+ commits and contributed/modified 25,000+ lines of code.
     - title: <a href="https://github.com/rcjng/JARchitecture">JARchitecture</a>
       year: 2022
-      description: Developed an accumulator and load-store hybrid computer architecture in SystemVerilog with a Python assembler and a MIPS-esque ISA and implemented and tested 3 programs in JARchitecture instructions to demonstrate architecture usage and functionality.
+      description: 
+      - Developed an accumulator and load-store hybrid computer architecture in SystemVerilog with a Python assembler and a MIPS-esque ISA and implemented and tested 3 programs in JARchitecture instructions to demonstrate architecture usage and functionality.
       - Merged 15+ commits and contributed/modified just shy of 10,000 lines of code.
 
 - title: Honors & Awards
