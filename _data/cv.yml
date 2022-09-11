@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science, Computer Science
+    - title: B.S., Computer Science
       institution: "University of California San Diego | 3.85 / 4.00"
       year: 09.2020 - 03.2023
       description:
@@ -44,7 +44,9 @@
       institution: Black & Veatch
       year: 06.2018 - 08.2018
       description: 
-      - Calculated mechanical loads and created CAD drawings for transformers and other substation components using Microstation and AutoCAD.
+      - Drafted CAD drawings for transformers, circuit breakers, busbars, and other substation components using Microstation, AutoCAD, and Revu.
+      - Calculated mechanical loads (dead, live, wind, seismic, torque, etc.) for various substation components and structures.
+      - Designed a substation foundation and its key characteristics such as dimensions, materials, attachment method, etc.
       
 - title: Projects
   type: time_table
