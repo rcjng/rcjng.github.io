@@ -46,7 +46,7 @@
       description: 
       - Drafted CAD drawings for transformers, circuit breakers, busbars, and other substation components using Microstation, AutoCAD, and Revu.
       - Calculated mechanical loads (dead, live, wind, seismic, torque, etc.) for various substation components and structures.
-      - Designed a substation foundation and its key characteristics such as dimensions, materials, attachment method, etc.
+      - Designed a substation foundation and its key characteristics such as dimensions, materials, attachment method, site grading, etc.
       
 - title: Projects
   type: time_table
@@ -68,7 +68,7 @@
       description: 
       - Developed an accumulator and load-store hybrid computer architecture in SystemVerilog with a Python assembler and a MIPS-esque ISA.
       - Implemented 3 programs/algorithms in JARchitecture instructions then verified program correctness using Java to demonstrate architecture usage and functionality.
-      - Merged 15+ commits and made just shy of 10,000 code contributions..
+      - Merged 15+ commits and made just shy of 10,000 code contributions.
 
 - title: Honors & Awards
   type: time_table
