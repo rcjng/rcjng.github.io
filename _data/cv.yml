@@ -21,15 +21,15 @@
   contents:
     - Algorithms & Data Structures, Software Engineering & Tools, Operating Systems, Computer Architecture & Organization, Programming Languages & Compilers, Digital System Design, Computer Vision, Computability Theory, Linear Algebra, Discrete Math, Statistics
     
-- title: Experience
+- title: Relevant & Recent Experience
   type: time_table
   contents:
     - title: Software Engineer Intern
       institution: Werfen
       year: 06.2022 - Present
       description: 
-      - Implemented and tested multiple new features or modifications for a medical device including designing an electronic system verification test suite and extending the telemetry and serial interfaces.
-      - Merged over a dozen commits and made 6,000+ code contributions via the use of object-oriented programming and design patterns.
+      - Implemented and tested multiple new features or modifications for a medical device including designing an electronic system verification test suite and extending pre-existing telemetry and serial interfaces.
+      - Merged over a dozen commits and made 6,000+ code contributions via the use of embedded programming, object-oriented programming, and design patterns.
       - Created and executed test cases for 8+ bug fixes and/or changes.
       - Reviewed over a dozen changes and updated multiple specification documents accordingly to reflect code, design, and workflow changes, case studies, and development logs.
 
@@ -48,21 +48,25 @@
       - Calculated mechanical loads (dead, live, wind, seismic, torque, etc.) for various substation components and structures.
       - Designed a substation foundation and its key characteristics such as dimensions, materials, attachment method, site grading, etc.
       
-- title: Projects
+- title: Primary & Recent Projects
   type: time_table
   contents:
+   - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
+      year: 2022
+      description: 
+      - Developed an Android social networking app in Java that recommends close proximity students to each other based on specific course criteria (number of shared courses, recency of shared courses, etc.)
+      - Implemented and iteratively tested multiple features including Bluetooth message sending and receiving via Google Nearby Messages API, data storage and persistence via Room API, sorting/filtering/matching algorithms, and UI view handling via design patterns and object-oriented programming.
+      - Merged 70+ commits and made 25,000+ code contributions.
     - title: <a href="https://github.com/rcjng/dynamic-display-settings-switcher">Dynamic Display Settings Switcher (DDSS)</a>
       year: 2022
       description: 
-      - Created a system tray application for Windows laptops that switches display settings (screen resolution, refresh rate, and brightness) when connecting or disconnecting from power.
-      - Implemented an easy one-click resolution and refresh rate switch feature and a configuration file for storing and changing custom user-defined display setting profiles.
-      - Wrote 500+ lines of code and utilized a variety of Python libraries including pywin32, psutil, wmi, threading, and pystray.
-    - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
+      - Created a system tray application in Python for Windows laptops that automatically switches display settings (screen resolution, refresh rate, and brightness) when connecting or disconnecting from power.
+      - Implemented an easy 1-click manual resolution and refresh rate switch feature and a configuration file for storing and changing custom user-defined display setting profiles.
+    - title: <a href="https://github.com/rcjng/tracktivity-discord-bot">Tracktivity Discord Bot</a>
       year: 2022
-      description: 
-      - Developed an Android social networking app in Java that recommends students to each other based upon specific course criteria (# of shared courses, recency of shared courses, etc.).
-      - Implemented and iteratively tested multiple features including Bluetooth message sending and receiving via Google Nearby Messages API, data storage and persistence via Room API, sorting/filtering/matching algorithms, and UI view handling via design patterns and object-oriented programming.
-      - Merged 70+ commits and made 25,000+ code contributions.
+      description:
+      - Developed a Discord bot in Go from scratch with 900+ lines of code that continually tracks user and server activity and reports a specific user’s info, activity, and status (Tracktivity profile) upon another user’s request through commands.
+      - Implemented 2 command handlers and 12+ Discord event handlers using DiscordGo to handle, generate, and send Tracktivity profile reports via Discord messages and update internal data structure and object data respectively.
     - title: <a href="https://github.com/rcjng/JARchitecture">JARchitecture</a>
       year: 2022
       description: 
@@ -73,26 +77,26 @@
 - title: Honors & Awards
   type: time_table
   contents:
+    - year: 2020
+      items: 
+        - National Merit Finalist
     - year: 2020 - Present
       items: 
         - Regents Scholar @ UCSD
     - year: 2021 - Present
       items:
         - "Provost's Honors @ UCSD"
-    - year: 2019
-      items: 
-        - National Merit Finalist
 
 - title: Technical Skills
   type: map
   contents:
     - name: Languages
-      value: C/C++, Python, Java, Haskell, VHDL, Verilog/SystemVerilog, ARM/MIPS/X86
+      value: C/C++, Java, Python, Go, Haskell, VHDL, Verilog/SystemVerilog, ARM/MIPS/X86
     - name: Frameworks
       value: JUnit, Robolectric, Espresso
     - name: Developer Tools
-      value: Android Studio, STM32Cube, Arduino, ModelSim, Quartus Prime, Git
+      value: IntelliJ/PyCharm, VS Code, Android Studio, STM32Cube, Arduino, ModelSim, Quartus Prime, Git, JIRA, Confluence, LaTeX, Markdown
     - name: Libraries & APIs
-      value: NumPy, Google Nearby Messages, Room
+      value: NumPy, Google Nearby Messages, Room, Discord
     - name: Techniques
       value: Agile Development, Design Patterns, Object-Oriented Programming
