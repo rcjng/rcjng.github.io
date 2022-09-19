@@ -52,7 +52,7 @@
 - title: Primary & Recent Projects
   type: time_table
   contents:
-   - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
+    - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
       year: 2022
       description: 
       - Developed an Android social networking app in Java that recommends close proximity students to each other based on specific course criteria (number of shared courses, recency of shared courses, etc.)
