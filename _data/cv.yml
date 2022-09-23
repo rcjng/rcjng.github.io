@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.S., Computer Science
+    - title: Bachelor of Science, Computer Science
       institution: "University of California San Diego | 3.85 / 4.00"
-      year: 09.2020 - 03.2023
+      year: September 2020 - March 2023
       description:
         
 - title: Relevant Coursework
@@ -26,7 +26,7 @@
   contents:
     - title: Software Engineer Intern
       institution: Werfen
-      year: 06.2022 - Present
+      year: June 2022 - Present
       description: 
       - Implemented and tested multiple new features and modifications for a medical device including designing an electronic system verification test suite and extending the existing telemetry and serial interfaces.
       - Merged 12+ commits and made 6,000+ code contributions via the use of embedded programming, object-oriented programming, and design patterns.
@@ -35,7 +35,7 @@
 
     - title: Electrical Engineer Intern
       institution: Tubis Technology
-      year: 06.2019 - 08.2019
+      year: June 2019 - August 2019
       description: 
       - "Designed an evaluation PCB in Altium by schematic entry: designed the PCB layer stackup, selected and placed components, inserted vias, routed traces, and added labels and identifiers."
       - Implemented an Arduino and Python development and debugging tool that visually represent bytes from an input stream on LEDs.
@@ -43,7 +43,7 @@
       
     - title: Mechanical Engineer Intern
       institution: Black & Veatch
-      year: 06.2018 - 08.2018
+      year: June 2018 - August 2018
       description: 
       - Drafted CAD drawings for transformers, circuit breakers, busbars, and other substation components using Microstation, AutoCAD, and Revu.
       - Calculated mechanical loads (dead, live, wind, seismic, torque, etc.) for various substation components and structures.
