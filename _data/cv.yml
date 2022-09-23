@@ -19,9 +19,9 @@
 - title: Relevant Coursework
   type: list
   contents:
-    - Algorithms & Data Structures, Software Engineering & Tools, Operating Systems, Computer Architecture & Organization, Programming Languages & Compilers, Digital System Design, Computer Vision, Computability Theory, Linear Algebra, Discrete Math, Statistics
+    - Algorithms & Data Structures, Software Engineering & Tools, Operating Systems, Networked Services, Computer Architecture, Organization, and Security, Embedded Systems & Programming, Programming Languages & Compilers, Digital System Design, Computer Vision, Computability Theory, Linear Algebra, Discrete Math, Statistics
     
-- title: Relevant & Recent Experience
+- title: Experience
   type: time_table
   contents:
     - title: Software Engineer Intern
@@ -49,7 +49,7 @@
       - Calculated mechanical loads (dead, live, wind, seismic, torque, etc.) for various substation components and structures.
       - Designed a substation foundation and its key characteristics such as dimensions, materials, attachment method, site grading, etc.
       
-- title: Primary & Recent Projects
+- title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
@@ -87,11 +87,11 @@
       items:
         - "Provost's Honors @ UCSD"
 
-- title: Technical Skills
+- title: Skills
   type: map
   contents:
     - name: Languages
-      value: C/C++, Java, Python, Go, Haskell, VHDL, Verilog/SystemVerilog, ARM/MIPS/X86
+      value: C/C++, Java, Python, Go, Haskell, HTML/CSS, VHDL, Verilog/SystemVerilog, ARM/MIPS/X86
     - name: Frameworks
       value: JUnit, Robolectric, Espresso
     - name: Developer Tools
@@ -99,4 +99,4 @@
     - name: Libraries, APIs & Environments
       value: Android, Arduino, STM32Cube, NumPy, Google Nearby Messages, Room, Discord
     - name: Techniques
-      value: Agile Development, Design Patterns, Object-Oriented Programming
+      value: Agile/Scrum/Kanban, Design Patterns, Object-Oriented Programming
