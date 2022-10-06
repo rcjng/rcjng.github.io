@@ -25,7 +25,7 @@
 - title: Relevant Coursework
   type: list
   contents:
-    - Algorithms & Data Structures, Software Engineering & Tools, Operating Systems, Networked Services, Computer Architecture, Organization, and Security, Embedded Systems & Programming, Programming Languages & Compilers, Digital System Design, Computer Vision, Computability Theory, Linear Algebra, Discrete Math, Statistics
+    - Algorithms & Data Structures, Software Engineering & Tools, Operating Systems, Networked Services, Computer Architecture, Organization, and Security, Embedded Systems & Programming, Programming Languages, Paradigms, and Compilers, Digital System Design, Computer Vision, Computability Theory, Linear Algebra, Discrete Math, Statistics
     
 - title: Experience
   type: time_table
