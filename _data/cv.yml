@@ -3,7 +3,7 @@
   contents:
     - name: Name
       value: Robert Jiang
-    - name: Preferred Name
+    - name: Nickname
       value: Rob
     - name: Languages
       value: English, Mandarin
@@ -48,6 +48,13 @@
       - Drafted CAD drawings for transformers, circuit breakers, busbars, and other substation components using Microstation, AutoCAD, and Revu.
       - Calculated mechanical loads (dead, live, wind, seismic, torque, etc.) for various substation components and structures.
       - Designed a substation foundation and its key characteristics such as dimensions, materials, attachment method, site grading, etc.
+      
+    - title: Freshman Cryptography Researcher
+      institution: UC San Diego
+      year: 09/2020 - 12/2020
+      - Earned a quarter-long cryptography research and mentorship opportunity with UCSD CSE Professor Nadia Heninger under the Regents Scholar Research Initiative during my first undergraduate quarter at UCSD.
+      - Learned fundamental cryptography techniques and concepts using Python through hands-on cryptography challenges on CryptoHack.
+      - Participated and presented in weekly discussions and meetings among Professor Nadia Heninger and her PhD students.
       
 - title: Projects
   type: time_table
