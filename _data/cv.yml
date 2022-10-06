@@ -2,9 +2,15 @@
   type: map
   contents:
     - name: Name
-      value: Robert Jiang
-    - name: Nickname
-      value: Rob
+      value: Robert (Rob) Jiang
+    - name: Pronouns
+      value: He/Him/His
+    - name: Email
+      value: rcjiang@ucsd.edu
+    - name: Mobile
+      value: +1 (503) 810-9393
+    - name: LinkedIn/GitHub/HackerRank/LeetCode
+      value: rcjng
     - name: Languages
       value: English, Mandarin
 
