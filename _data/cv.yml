@@ -60,40 +60,70 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
-      tech: Java\nAndroid\nSQL\nGoogle Nearby Messages API\nRoom API\nGitHub\nZenHub
+      tech: |-
+        Java
+        Android
+        SQL
+        Google Nearby Messages API
+        Room API
+        GitHub
+        ZenHub
       description: 
       - Developed a multi-threaded Android social networking app in Java that fosters friendships by recommending close-proximity students to one another via Bluetooth based upon academic criteria
       - Iteratively implemented features such as Bluetooth messaging via Google Nearby Messages API, data storage and persistence via Room API, sorting/filtering/matching algorithms, and UI event handling, all using object-oriented programming and design patterns
       - Implemented a variety of automated CI/CD tests via GitHub Actions including unit tests, integration tests, end-to-end tests, UI tests, smoke tests, load tests, recovery tests, acceptance tests, static tests, and regression tests via JUnit, Robolectric, and Espresso
     - title: <a href="https://github.com/rcjng/dynamic-display-settings-switcher">Dynamic Display Settings Switcher (DDSS)</a>
-      tech: Python\npywin32\npsutil\nwmi\nthreading\npystray
+      tech: |-
+        Python
+        pywin32
+        psutil
+        wmi
+        threading
+        pystray
       description: 
       - Created a multi-threaded system tray desktop application in Python for Windows laptops that automates display settings switching (screen resolution, refresh rate, and brightness) when connecting or disconnecting from AC power
       - Provided substantial average battery life improvements of 1-2 hours with negligible to no performance decrease depending on workload when on battery and no performance decrease when on AC power
       - Implemented user quality of life features such as a single-click manual resolution and refresh rate switch feature via pystray and a JSON configuration file for persistently storing and changing user-defined display setting profiles when on battery and AC power
     - title: <a href="https://github.com/rcjng/ServeStore">ServeStore</a>
-      tech: Go\ngRPC
+      tech: |-
+        Go
+        gRPC
       description:
       - Developed a distributed file hosting service in Go with cloud storage that allows the uploading, downloading, and synchronization of files of all types and sizes from and to your desktop devices using gRPC
       - Employs multiple distributed storage servers for file block data and file metadata and utilizes a consistent hashing algorithm to map requests to the correct server allowing for efficient and robust operation and scaling
     - title: <a href="https://github.com/rcjng/tracktivity-discord-bot">Tracktivity Discord Bot</a>
-      tech: Go\nDiscordGo\nDiscord API
+      tech: |-
+        Go
+        DiscordGo
+        Discord API
       description:
       - "Developed a telemetry Discord bot in Go that continually tracks user and server activity and reports a specific user’s info, user, server, and game activity, and online status (Tracktivity profile) upon another user’s request through Discord chat message commands"
       - Implemented dozens of command and event handlers using DiscordGo to parse and handle user commands, locate and gather activity statistics, compile and generate Tracktivity profile reports, and queue and send Tracktivity profile reports via Discord chat messages
     - title: <a href="https://github.com/rcjng/TinyTag">TinyTag</a>
-      tech: C\nTinyZero\nArduino\nBluetooth Low Energy\nI2C
+      tech: |-
+        C
+        TinyZero
+        Arduino
+        Bluetooth Low Energy
+        I2C
       description:
       - Developed an ultra-low power, motion-based, Bluetooth Low Energy (BLE) tracking device in C and Arduino using the TinyCircuits TinyZero processor board
       - Designed a lost detection algorithm that analyzes recent Bosch BMA253 acceleration data across I2C communication and reports lost duration to a smartphone via BLE messages
       - Optimized dynamic power dissipation to 6-10mW and 1-2mA through the deployment of clock gating, CPU and peripheral sleeping, clock source switching and disabling, clock frequency lowering, and simplified logic and system design
     - title: <a href="https://github.com/rcjng/JARchitecture">JARchitecture</a>
-      tech: SystemVerilog\nVerilog\nPython\nJava\nModelSim\nQuartus Prime
+      tech: |-
+        SystemVerilog
+        Verilog
+        Python
+        Java
+        ModelSim
+        Quartus Prime
       description: 
       - Developed an accumulator and load-store hybrid computer architecture in Verilog and SystemVerilog with a Python assembler and a MIPS-esque ISA
       - Implemented 3 programs/algorithms in JARchitecture instructions then verified program correctness using Java to demonstrate architecture usage and functionality
     - title: <a href="https://github.com/rcjng/Huffpressor">Huffpressor</a>
-      tech: C++
+      tech: |-
+        C++
       description:
       - Developed a command-line file compressor and uncompressor tool in C++ utilizing Huffman Tree encoding/decoding
       - Tested to work with varying files of up to 50KB in size
@@ -102,8 +132,10 @@
   type: time_table
   contents:
     - title: Bachelor of Science, Computer Science
-      institution: "University of California San Diego | 3.85 / 4.00"
-      year: 09/2020 - 03/2023
+      institution: |-
+        "University of California San Diego"
+        "3.85 out of 4.00"
+      year: 03/2023
       description:
 - title: Coursework
   id: coursework
