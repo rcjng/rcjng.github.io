@@ -143,9 +143,9 @@
   contents:
     - name: Web Development
       value: Software Engineering, Software Tools, Networked Services, Web Client Languages, Databases
-    - name: Systems and Embedded
-      value: Operating Systems, Computer Security, Computer Networks, Parallel Computing, Programming Languages, Compilers
-    - name: Architecture and Design
+    - name: Systems
+      value: Operating Systems, Embedded Systems, Computer Security, Computer Networks, Parallel Computing, Programming Languages, Compilers
+    - name: Architecture
       value: Computer Architecture, Computer Organization, Digital Design
     - name: Fundamentals
       value: Algorithms, Data Structures, Computability Theory, Linear Algebra, Discrete Math, Statistics
