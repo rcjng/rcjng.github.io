@@ -131,8 +131,10 @@
   id: education
   type: time_table
   contents:
-    - title: Bachelor of Science, Computer Science
-      institution: "University of California San Diego | 3.85 out of 4.00"
+    - title: University of California San Diego
+      degree: |-
+        B.S., Computer Science<br>
+        3.85 out of 4.00
       year: Sept. 2020 - Mar. 2023
       description:
 - title: Coursework
