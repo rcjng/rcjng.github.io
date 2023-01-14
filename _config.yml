@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Robert
 middle_name: 
 last_name: Jiang
-email: rcjiang@ucsd.edu
+email: rcjng@outlook.com
 description: > 
   Robert Jiang's personal portfolio website.
 footer_text: >
@@ -84,7 +84,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: The best way to reach me is through Email!
+contact_note: The best way to reach me is through email!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -179,8 +179,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Jiang
+  first_name: [Robert, C.]
 
   style: apa
   locale: en
