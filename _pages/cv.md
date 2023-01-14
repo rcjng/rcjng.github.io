@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /resume/
+permalink: /resume
 title: Robert Jiang
 nav: true
 nav_order: 4

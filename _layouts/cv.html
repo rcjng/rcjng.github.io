@@ -10,9 +10,9 @@ layout: default
           </header>
 
           <article>
-            <div class="cv" id="{{ entry.id }}">
+            <div class="cv">
               {% for entry in site.data.cv %}
-                <div class="card mt-3 p-3">
+                <div class="card mt-3 p-3" id="{{ entry.id }}">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
                   <div>
                   {% if entry.type == "list" %}
