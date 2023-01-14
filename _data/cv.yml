@@ -1,6 +1,6 @@
 - title: Contact
-  type: map
   id: contact
+  type: map
   contents:
     - name: Email
       value: rcjiang@ucsd.edu
@@ -9,8 +9,8 @@
     - name: Username
       value: "@rcjng"
 - title: Skills
-  type: map
   id: skills
+  type: map
   contents:
     - name: Languages
       value: C/C++, Java, Python, Go, SQL, HTML/CSS, JavaScript, Haskell
@@ -23,8 +23,8 @@
     - name: Processes
       value: REST, Design Patterns, Object-Oriented Design, Embedded Systems, Functional Programming
 - title: Experience
-  type: time_table
   id: experience
+  type: time_table
   contents:
     - title: Software Engineer Intern
       institution: Werfen
@@ -56,8 +56,8 @@
       - Learned fundamental cryptography techniques and concepts using Python through hands-on cryptography challenges on CryptoHack
       - Participated and presented in weekly discussions and meetings among Professor Nadia Heninger and her PhD students
 - title: Projects
-  type: time_table
   id: projects
+  type: time_table
   contents:
     - title: <a href="https://github.com/CSE-110-Winter-2022/birds-of-a-feather-team-22">Feather</a>
       tech: Java, Android, SQL, Google Nearby Messages API, Room API, Git, ZenHub
@@ -98,16 +98,16 @@
       - Developed a command-line file compressor and uncompressor tool in C++ utilizing Huffman Tree encoding/decoding
       - Tested to work with varying files of up to 50KB in size
 - title: Education
-  type: time_table
   id: education
+  type: time_table
   contents:
     - title: Bachelor of Science, Computer Science
       institution: "University of California San Diego | 3.85 / 4.00"
       year: 09/2020 - 03/2023
       description:
 - title: Coursework
-  type: map
   id: coursework
+  type: map
   contents:
     - name: Web Development
       value: Software Engineering, Software Tools, Networked Services, Web Client Languages, Databases
@@ -120,15 +120,15 @@
     - name: AI/ML/CV
       value: Computer Vision
 - title: Honors & Awards
-type: time_table
-id: honors
-contents:
-  - year: 2020
-    items: 
-      - National Merit Finalist
-  - year: 2020
-    items: 
-      - Regents Scholar @ UCSD
-  - year: 2021, 2022, 2023
-    items:
-      - Provost Honors @ UCSD
+  id: honors
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - National Merit Finalist
+    - year: 2020
+      items: 
+        - Regents Scholar @ UCSD
+    - year: 2021, 2022, 2023
+      items:
+        - Provost Honors @ UCSD
